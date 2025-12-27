@@ -1,0 +1,13 @@
+# Dependency directories (important if you use npm later)
+node_modules/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
